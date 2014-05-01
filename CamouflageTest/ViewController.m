@@ -20,8 +20,8 @@
 {
     [super viewDidLoad];
 
-//    [self testStringWritingAndReading];
-    [self testImageWritingAndReading];
+    [self testStringWritingAndReading];
+//    [self testImageWritingAndReading];
 }
 
 - (void)testStringWritingAndReading
