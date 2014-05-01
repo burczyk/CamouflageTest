@@ -1,0 +1,14 @@
+PODS:
+  - Camouflage (1.0.0)
+
+DEPENDENCIES:
+  - Camouflage (from `../Camouflage`)
+
+EXTERNAL SOURCES:
+  Camouflage:
+    :path: ../Camouflage
+
+SPEC CHECKSUMS:
+  Camouflage: 78d3b19b0bf53ba11bec395764ef0dee0d18c689
+
+COCOAPODS: 0.32.1
